@@ -1,0 +1,14 @@
+## Interface: 20502
+## Title: Jewelcrafter
+## Notes: Helps jewelcrafters get connected with those looking for cuts
+## Version: 1.0
+## Author: Vyscî-Whitemane / heavily modified to work with JC by Kozkon-Whitemane
+## DefaultState: enabled
+## SavedVariables: JewelcrafterDB
+## SavedVariablesPerCharacter:JewelcrafterDBChar
+LibGPIOptions.lua
+LibGPIToolBox.lua
+Tags.lua
+Options.lua
+Jewelcrafter.lua
+Jewelcrafter.xml
